@@ -1,0 +1,1893 @@
+Año	Título	Corpus estilométrico
+1946	Atrevida apuesta	Sí
+1947	Boda clandestina	Sí
+1948	Incomprensión	No
+1948	La hija de mi jefe	No
+1949	¡Era el amor!	No
+1949	¡No quiero a esta mujer!	No
+1949	Diablillo	No
+1949	Era el amor	No
+1949	La isla dorada	Sí
+1949	Nos venció el amor	No
+1949	Semilla de odios	Sí
+1950	Aquella niña tonta	No
+1950	¡Porque no eres como todos!	Sí
+1950	¡Si yo coqueteara!	No
+1950	Alma	No
+1950	Almas en la sombra	No
+1950	Cupido se burló de Mari-Dena	No
+1950	Entre dos luces	Sí
+1950	¡Guerra al amor!	Sí
+1950	Irene tienta al misántropo	Sí
+1950	La última noche	No
+1950	Lo hice por tu amor	Sí
+1950	Novia después de esposa	No
+1950	Sucedió callando	Sí
+1950	Timidez y pasión	Sí
+1950	Tristeza de amar	Sí
+1951	¡Bendita seas!	Sí
+1951	¡Todo por ella!	No
+1951	¿Quién tuvo la culpa?	Sí
+1951	…Y soñó su felicidad	No
+1951	Corazón indómito	Sí
+1951	Desdeño ese amor	Sí
+1951	Después de aquella noche	Sí
+1951	Destinos de amor	Sí
+1951	Él era así	Sí
+1951	Esclava de un amor	No
+1951	Matrimonio por seis meses	Sí
+1951	Mi novio, el afilador	Sí
+1951	Renuncio a tu perdón	No
+1951	Si no fueras tú…	Sí
+1951	Tú eres el culpable	Sí
+1951	Tuyo es mi corazón	Sí
+1951	Volverás a mí	Sí
+1952	¡Aquella muchacha!	Sí
+1952	¡Tú no eres nadie!	Sí
+1952	Alix Efimovitch	Sí
+1952	Dany Amorós	No
+1952	De distinto color	No
+1952	El destino manda	Sí
+1952	Ella entre los dos	Sí
+1952	Eres mi esposa	No
+1952	Éste es mi quinto	Sí
+1952	Isabel	Sí
+1952	Más allá de la senda	Sí
+1952	No pensé en mí	Sí
+1952	No te olvidé nunca	No
+1952	Otra mujer en su vida	Sí
+1952	Una mujer fea	Sí
+1953	¡¡Bonita… bonita!!	No
+1953	¿Cuál de los cuatro?	No
+1953	¿Una mujer peligrosa?	No
+1953	Dolly	No
+1953	Dos almas recias	No
+1953	El destino tiene la palabra	Sí
+1953	Es mi marido	No
+1953	La noche trajo un amor	No
+1953	Me casaré contigo	Sí
+1953	Prisionero en sus redes	No
+1953	Solos tú y yo	No
+1953	Un hombre vulgar	No
+1953	Un misterio en su vida	No
+1953	Una chica decidida	No
+1953	Una mamá para Ana	Sí
+1953	Una mujer ambiciosa	No
+1954	Compraré un marido	No
+1954	Dos rostros y una mujer	No
+1954	El desengaño de Nancy	No
+1954	El pasado no es nuestro	Sí
+1954	Frívola	No
+1954	La indecisión de Cris	No
+1954	La mujer de mi amigo	Sí
+1954	Leonor	No
+1954	Loco corazón	No
+1954	No debo casarme contigo	No
+1954	No soy lo que piensas	Sí
+1954	Noche de bodas	No
+1954	Su gran delito	Sí
+1954	Su pecado	No
+1954	Te quiero de esta manera	Sí
+1954	Tengo otro amor	Sí
+1954	Un soltero peligroso	No
+1954	Una novia para dos	No
+1955	¡Malditos besos!	Sí
+1955	Almas gemelas	Sí
+1955	Carolina	No
+1955	Corazón torturado	No
+1955	Deliciosa locura	Sí
+1955	El secreto de Ruth	No
+1955	Había renunciado	Sí
+1955	La boda de Ivonne	Sí
+1955	La colegiala	Sí
+1955	La maestra	No
+1955	Quiero tu amor	Sí
+1955	Raíces de pecado	No
+1955	Un día contigo	No
+1955	Un hombre y una mujer	Sí
+1955	Un pasado vulgar	No
+1956	¿Quieres ser mi mujer?	Sí
+1956	Casado por ambición	Sí
+1956	Cruel ingratitud	No
+1956	De otra raza	Sí
+1956	El pasado de Mauri	No
+1956	Ella era así	Sí
+1956	Esclava del deber	No
+1956	Fuego en el corazón	No
+1956	La molinera	No
+1956	Matrimonio obligado	Sí
+1956	Parecía imposible	Sí
+1956	Su venganza	No
+1956	Timidez y amor	Sí
+1956	Una chica loca	Sí
+1956	Yira	Sí
+1956	Yo soy ella	No
+1957	Casémonos	Sí
+1957	El marido de Laura	Sí
+1957	El primer beso	No
+1957	El recuerdo de aquel día	Sí
+1957	Estamos casados	Sí
+1957	Éste es mi tutor	No
+1957	Historia de dos mujeres	Sí
+1957	La boda de Anita	Sí
+1957	La mentira de Sofía	Sí
+1957	La novia de mi hermano	Sí
+1957	La pesadilla de Diana	No
+1957	La rebelde Cris	Sí
+1957	La sorpresa de Lina	No
+1957	Mi secretaria	Sí
+1957	Primavera en los ojos	No
+1957	Su majestad, la reina	Sí
+1957	Un secreto entre los dos	Sí
+1958	Aquel matrimonio	Sí
+1958	Casada por poderes	No
+1958	Conflicto sentimental	No
+1958	Diario de una enfermera	Sí
+1958	Diario de una madre	Sí
+1958	El complejo de Mary-Chon	Sí
+1958	El infiel	No
+1958	El problema de Sara	No
+1958	Ella y él	No
+1958	Esto ocurrió a Cecile	No
+1958	Flor María	Sí
+1958	He vuelto para ti	Sí
+1958	Helen se divierte	Sí
+1958	Inesperadamente	Sí
+1958	La imagen de una mujer	Sí
+1958	La máscara de una mujer	Sí
+1958	La modelo	No
+1958	Llegó la colegiala	Sí
+1958	Lucha oculta	No
+1958	María Eugenia	Sí
+1958	Matrimonio singular	Sí
+1958	No puedo creer en ti	No
+1958	Pasaje de una vida	Sí
+1958	Realidad de una vida	No
+1958	Tras el olvido	Sí
+1958	Tuviste que ser mía	Sí
+1958	Un hombre galante	No
+1958	Yo soy aquella chica	Sí
+1959	Aquel minuto	Sí
+1959	Caprichos de millonario	Sí
+1959	Creo ser un buen hombre	Sí
+1959	Cuidado con el amor	Sí
+1959	Deseo un millonario	Sí
+1959	El caso de la maestra	No
+1959	El castillo de Wiertel	Sí
+1959	El compromiso de Ana	Sí
+1959	El destino esperaba allí	Sí
+1959	El orgullo de Milady	Sí
+1959	El papá de Sallie	Sí
+1959	El pasado de Tab North	No
+1959	En pos de la fortuna	Sí
+1959	La encontré en mi camino	Sí
+1959	La historia de una mujer	Sí
+1959	La inquieta Ana	Sí
+1959	La invitada	Sí
+1959	La mujer de hielo	Sí
+1959	La profesora	Sí
+1959	La sombra de otro amor	Sí
+1959	La venganza de Marige	Sí
+1959	Las inquietudes de Patricia	Sí
+1959	Me casé ayer	No
+1959	Me casé con un celoso	Sí
+1959	Mi amiga Marta	No
+1959	Mi marido y yo	Sí
+1959	Mi querida rebelde	Sí
+1959	Nereyda	No
+1959	No te separes de mí	Sí
+1959	Odio en la aldea	Sí
+1959	Orgullo de raza	Sí
+1959	Perdidos en la niebla	Sí
+1959	Raquel	No
+1959	Su Alteza ha llegado	No
+1959	Un doble para Patricia	Sí
+1959	Un solo hombre	Sí
+1959	Una llamada a la puerta	Sí
+1959	Ya es tarde para amar	No
+1959	Yo no me caso	No
+1960	Adorable esclavitud	Sí
+1960	Adorada mía	Sí
+1960	Andrés y ellas	No
+1960	Beatriz	Sí
+1960	Desengaño y amor	Sí
+1960	El amor llegó más tarde	Sí
+1960	El destino de Kim	No
+1960	El matrimonio de Miryam	No
+1960	El padrino de mi hermano	Sí
+1960	El pasado vuelve aquí	Sí
+1960	El pintor	No
+1960	El profesor de felicidad	Sí
+1960	El secreto de Mildred	Sí
+1960	Él y el otro	Sí
+1960	Ella y sus recuerdos	Sí
+1960	Esperanza	No
+1960	Has de ser tú	Sí
+1960	La doncella de mamá	Sí
+1960	La historia de mi vida	Sí
+1960	La vida empieza	No
+1960	Lo inesperado	No
+1960	Los ambiciosos	No
+1960	Mi hija Nancy	No
+1960	Milady y los hombres	No
+1960	Milord y ella	No
+1960	No eres tú	Sí
+1960	Nube negra	No
+1960	Paula	No
+1960	Ramón	No
+1960	Realidades	Sí
+1960	Surgió el amor	Sí
+1960	Te vi al amanecer	No
+1960	Tú eres para mí	Sí
+1960	Un amor en el camino	No
+1960	Un consuelo para ti	Sí
+1960	Un contrato original	Sí
+1960	Un marido por apuesta	Sí
+1960	Una chica valiente	Sí
+1960	Una hora contigo	No
+1961	Ana y el chófer	Sí
+1961	Aquel descubrimiento…	Sí
+1961	Arturo y mi hermana	Sí
+1961	Carla	No
+1961	El amigo de mi marido	Sí
+1961	Él cambió mi vida	Sí
+1961	El orgullo de Ann	No
+1961	Ella y los tres	No
+1961	En aquel momento	Sí
+1961	En aquel valle…	Sí
+1961	Eso no se olvida	No
+1961	Espero un marido rico	Sí
+1961	La casa de los solteros	No
+1961	La cautiva	Sí
+1961	La indecisión de Leila	Sí
+1961	Las dudas de Celia	Sí
+1961	Las noches de Audrey	Sí
+1961	Los jueves de Leila	Sí
+1961	Mag se ha enamorado	No
+1961	Me casé con él	Sí
+1961	Mis pretendientes	Sí
+1961	No hay fronteras	No
+1961	No quiero a esta mujer	No
+1961	Nunca lo creí	No
+1961	Ojos bonitos	Sí
+1961	Prometida a la fuerza	Sí
+1961	Raquel, no esperes	Sí
+1961	Se busca esposa	No
+1961	Ten cuidado, Irene	Sí
+1961	Un marido para Berta	Sí
+1961	Una mujer insignificante	No
+1961	Una oscura promesa	Sí
+1961	Yanire	No
+1961	Yo no soy así	No
+1962	¿Es éste mi marido?	Sí
+1962	Aquel hombre y yo	Sí
+1962	Aquel pasado	No
+1962	Aquella extraña boda	Sí
+1962	Aquella ilusión desvanecida	Sí
+1962	Así aprendí a quererte	No
+1962	Aventurera	Sí
+1962	Cumplí mi condena	Sí
+1962	Cumplimiento de palabra	Sí
+1962	Déjame adorarte, Isabel	Sí
+1962	El matrimonio de Grey	Sí
+1962	El señor feudal	Sí
+1962	Ella volverá	No
+1962	Ellos se disfrazan	No
+1962	Elvira no reflexiona	Sí
+1962	Fuego en la nieve	Sí
+1962	La boda de Maripol	No
+1962	La secretaria de mi marido	No
+1962	Lo supe aquel día	Sí
+1962	Marta y ellos	Sí
+1962	No creo en tu cariño	Sí
+1962	No era espejismo	Sí
+1962	No estás sola	Sí
+1962	Noche de carnaval	No
+1962	Querían casarse	No
+1962	Querida Edith	No
+1962	Se solicita enfermera	No
+1962	Susana piensa	Sí
+1962	Te casaste por ambición	Sí
+1962	Te presento a mi marido	Sí
+1962	Una prueba difícil	No
+1962	Volveremos a encontrarnos	Sí
+1962	Vuelve a mí	No
+1963	¿Qué quieres de mí?	Sí
+1963	Afortunada locura	No
+1963	Aléjate de mí	Sí
+1963	Algún día volveré	Sí
+1963	Almas inquietas	Sí
+1963	Amor fugaz	Sí
+1963	Aventura inesperada	Sí
+1963	Berta	Sí
+1963	Cambio feliz	Sí
+1963	Cree en mí	Sí
+1963	Déjame decírtelo	Sí
+1963	Déjame vivir	Sí
+1963	Dudas	Sí
+1963	El destino de Paula	No
+1963	El destino la esperaba	No
+1963	El destino no perdona	Sí
+1963	El drama de Maylen	No
+1963	El maestro	No
+1963	El secreto de Ana	No
+1963	Ella y los hombres	No
+1963	Ella y su jefe	Sí
+1963	Entre marido y mujer	Sí
+1963	Eres el mismo	Sí
+1963	Esperaba por ti	Sí
+1963	Fuimos diferentes	No
+1963	Hasta aquel día	No
+1963	He vuelto	No
+1963	La espera y el triunfo	No
+1963	La otra	Sí
+1963	La prometida de Clint	Sí
+1963	Las dos familias	Sí
+1963	Lo encontré así	No
+1963	Lo sabía	Sí
+1963	Los gemelos	Sí
+1963	Maricé tiene novio	Sí
+1963	Misterio inexistente	Sí
+1963	No debo quererte	Sí
+1963	No permitas que te ofenda	Sí
+1963	No puedo odiarte	Sí
+1963	No te engañé	No
+1963	Obligada esclavitud	Sí
+1963	Odio a mi cuñado	No
+1963	Olvídalo	Sí
+1963	Orgullo sin venganza	Sí
+1963	Perdóname	Sí
+1963	Quiero casarme	No
+1963	Recuerdo del pasado	Sí
+1963	Siempre fue así	Sí
+1963	Sin compromiso	No
+1963	Solo supe quererte	Sí
+1963	Susana	Sí
+1963	Te amo	Sí
+1963	Te casarás conmigo	Sí
+1963	Te haré feliz	Sí
+1963	Tres amores	Sí
+1963	Un hombre extraño	No
+1963	Una esposa para él	No
+1963	Volveré aquí	Sí
+1963	Yo no tengo la culpa	Sí
+1964	¡Respetad a esa mujer!	No
+1964	…Y llegó ella	No
+1964	Adiós, Susana	Sí
+1964	Ahora no te quiero	Sí
+1964	Aquella calumnia	Sí
+1964	Bendita tú	No
+1964	Como me lo contaron	Sí
+1964	Deja que te ame	Sí
+1964	Dime la verdad	No
+1964	El destino de una huida	Sí
+1964	El pecado de Sofía	Sí
+1964	Empezó sin querer	Sí
+1964	Empieza ahora	Sí
+1964	Encontré a mi mujer	Sí
+1964	Es inútil que me quieras	No
+1964	Felicidad	Sí
+1964	Futuro incierto	Sí
+1964	«In articulo mortis»	Sí
+1964	Inquietudes	Sí
+1964	La encontré por ser celoso	Sí
+1964	La esposa de mi hermano	Sí
+1964	Luz roja para el amor	Sí
+1964	Mag se casó	Sí
+1964	Me casé con ella	No
+1964	Mi adorable embustera	No
+1964	Mi adorada pueblerina	Sí
+1964	Mi boda contigo	Sí
+1964	Mi esposo me abandona	Sí
+1964	Mi frívola esposa	Sí
+1964	Mi mala intención	Sí
+1964	Mi marido me espera	Sí
+1964	Mi marido me olvidó	No
+1964	No quiero volver a verte	Sí
+1964	No quisiera amarte	Sí
+1964	No seas orgulloso	Sí
+1964	No te enamores, muchacha	Sí
+1964	No te juzgo	Sí
+1964	No te vi	No
+1964	Nos casaremos	Sí
+1964	Nunca olvidé	No
+1964	Olvídame, Paula	Sí
+1964	Orgullo y soberbia	Sí
+1964	Otra vez contigo	Sí
+1964	Papá y su novia	Sí
+1964	Por compasión, no	Sí
+1964	Problema familiar	Sí
+1964	Quiero casarme con ella	Sí
+1964	Recuerdo perdurable	Sí
+1964	Redimida	No
+1964	Secreto matrimonial	Sí
+1964	Sin piedad	Sí
+1964	Su alteza ha llegado	No
+1964	Su Alteza Real	No
+1964	Te defiendo sin amor	Sí
+1964	Te encontré para esto	Sí
+1965	¿Por qué te quiero así?	No
+1965	Apuesta atrevida	No
+1965	Aquel día nació Mae	No
+1965	Ardiente sacrificio	Sí
+1965	Ayúdame a olvidar	Sí
+1965	Déjame hacerte feliz	No
+1965	Destrúyeme después	No
+1965	El destino viajaba en tren	Sí
+1965	El doloroso ayer	Sí
+1965	El novio de mi vecina	Sí
+1965	El peso de tu personalidad	Sí
+1965	Eres una aventurera	Sí
+1965	La loca de los Guzmán	No
+1965	La noche que te vi	No
+1965	Me dejaste injustamente	Sí
+1965	Me inquietó tu boda	Sí
+1965	Mentira sentimental	No
+1965	Mi encuentro con ella	No
+1965	Mi marido y sus hijos	Sí
+1965	Mónica en apuros	Sí
+1965	Muchachita loca	No
+1965	No me compadezcas	Sí
+1965	No me engañes otra vez	Sí
+1965	No me odies	Sí
+1965	No seré tu esclava	Sí
+1965	No soy como piensas	No
+1965	No te cases con él	No
+1965	No te quieren para mí	No
+1965	Nos conocimos así	Sí
+1965	Odiosa esclavitud	Sí
+1965	Orgullo y ternura	Sí
+1965	Salvaré a mi marido	Sí
+1965	Soy un soltero feliz	No
+1965	Te amo, Edgar	Sí
+1965	Tú me diste la felicidad	Sí
+1965	Un hombre ante mi puerta	Sí
+1965	Vengo a pagar mi deuda	No
+1965	Ya me llamarás	Sí
+1966	A ti te quiero más	Sí
+1966	Altiva muchacha	Sí
+1966	Amor en las cumbres	Sí
+1966	Ayúdame tú	Sí
+1966	Barreras para el amor	Sí
+1966	Cruel desconfianza	No
+1966	Déjame quererte	No
+1966	Dinero para amar	No
+1966	El fantasma de sí mismo	Sí
+1966	El padre de mis sobrinos	Sí
+1966	El pasado vuelve conmigo	No
+1966	Elige tu camino	Sí
+1966	Eres una pecadora	No
+1966	Has amado a mi hermano	No
+1966	La condenada	No
+1966	La vida empieza contigo	Sí
+1966	Me casaron contigo	No
+1966	Me llamaste aquel día	Sí
+1966	Me lo presentó mi novio	No
+1966	Me ofenden tus celos	No
+1966	Me olvidaste al otro día	Sí
+1966	Mi felicidad eres tú	Sí
+1966	No eres buena	Sí
+1966	No me digas que me quieres	No
+1966	No olvidaré tu traición	Sí
+1966	No puedo ser para ti	Sí
+1966	No quisiera recordarte	No
+1966	No quisiera ser así	No
+1966	No se lo digas a nadie	No
+1966	No soy nadie para ti	No
+1966	Nunca olvidé a Polly	No
+1966	Por encima de todo estás tú	No
+1966	Por eso me casé contigo	Sí
+1966	Por favor, Nicolás	No
+1966	Por quererla tanto soy así	Sí
+1966	Pudo más que el orgullo	Sí
+1966	Quiéreme a mí	No
+1966	Sólo él la conoció	No
+1966	Su amor no es una aventura	No
+1966	Su noviazgo fue así	No
+1966	Su traición y mi destino	No
+1966	Te equivocaste conmigo	No
+1966	Te prefiero a ti	Sí
+1966	Tú la querrás más	Sí
+1966	Vamos a casarnos los dos	No
+1966	Vengo a vivir contigo	No
+1966	Vuelve el ayer	No
+1966	Y eligió la felicidad	Sí
+1967	Ahora no te puedo olvidar	No
+1967	Ahora no te voy a olvidar	No
+1967	Apasionadamente frívolo	No
+1967	Aquellos besos	No
+1967	Conmigo olvidarás tu pasado	Sí
+1967	Detrás de la puerta	No
+1967	Dime si eres ella	Sí
+1967	Esta mujer es mía	Sí
+1967	Estabas solo	No
+1967	Estás casado con otra	Sí
+1967	Estuve con mi marido	No
+1967	He venido engañada	Sí
+1967	He vuelto para verte	Sí
+1967	Inquietante intimidad	Sí
+1967	La sombra de un recuerdo	Sí
+1967	Las tinieblas de mi vida	No
+1967	Le destrozaste la vida	Sí
+1967	Me apasiona tu obsesión	Sí
+1967	Me callé por no dañarte	No
+1967	Me casé con un desconocido	No
+1967	Mi querido fanfarrón	No
+1967	No me culpes a mí	Sí
+1967	No me humilles así	No
+1967	No me persigas así	No
+1967	No me venderé nunca	No
+1967	No mereces mi amor	No
+1967	No mereces mi perdón	Sí
+1967	No podía casarme con él	Sí
+1967	No puede ser su marido	No
+1967	No puedo ser tu marido	No
+1967	No sé quién soy	No
+1967	Nunca me recordaste	Sí
+1967	Nunca seré así	Sí
+1967	Olvida mi venganza	Sí
+1967	Olvídate de aquel día	Sí
+1967	Peligra nuestro amor	Sí
+1967	Peligrosa rivalidad	No
+1967	Por eso fui a buscarte	Sí
+1967	Quiéreme y olvídala	Sí
+1967	Raíz amarga	No
+1967	Si no crees en mi verdad	No
+1967	Siempre estuve así	No
+1967	Sólo lo compadecí	Sí
+1967	Sueño imposible	No
+1967	Te ayudaré siempre	Sí
+1967	Te eligió mi corazón	No
+1967	Te odio por ser de otro	Sí
+1967	Tengo que abandonarte	No
+1967	Tu carita de niña	No
+1967	Tu pecado me condena	No
+1967	Vengas en mí tu dolor	No
+1968	¡Si yo pudiera cambiar!	Sí
+1968	Angustiosa inquietud	Sí
+1968	Aquella noche en el río	No
+1968	Así me metí allí	Sí
+1968	Bendita equivocación	Sí
+1968	Consuélate conmigo	No
+1968	Descúbreme ese misterio	Sí
+1968	Detén mi caída	Sí
+1968	El problema de Luima	Sí
+1968	Huyes de ti misma	No
+1968	La boda de Dolca Ortiz	Sí
+1968	La culpa la tuvieron ellos	No
+1968	La solución de Andrea	No
+1968	Las inquietudes de Cristina	Sí
+1968	Lastimas con tu tortura	Sí
+1968	Lo supe después	No
+1968	Me estabas conquistando	No
+1968	Me estás abandonando	Sí
+1968	Me estoy acostumbrando	No
+1968	Me impresiona tu ignorancia	No
+1968	Me obligaron a casarme	No
+1968	Me sentía sola	No
+1968	Me siento decepcionada	Sí
+1968	Mi compromiso con Burt	No
+1968	Mi marido es un celoso	No
+1968	Negocio matrimonial	Sí
+1968	No me obligues a decirlo	No
+1968	No te cases por piedad	Sí
+1968	No te engañes a ti misma	Sí
+1968	No te quería	No
+1968	No traté de engañarte	No
+1968	Nunca te engañé	No
+1968	Nunca te olvidé	No
+1968	Pagarás tu mentira	Sí
+1968	Pienso enamorarte	No
+1968	Prudente pasión	No
+1968	Soy poco para ti	Sí
+1968	Tu marido está aquí	No
+1968	Tú no eres mi marido	No
+1968	Tu noche de boda	Sí
+1968	Turbadora realidad	No
+1968	Tus tristes complejos	No
+1968	Una noche en el balcón	No
+1968	Venganza frustrada	Sí
+1968	Ya sé cómo eres	Sí
+1968	Yo estaba aquí	No
+1968	Yo no soy como ella	Sí
+1968	Yo sé que te pasa	Sí
+1969	¡Cuánto se puede querer!	No
+1969	¿Qué hiciste conmigo?	Sí
+1969	¿Qué le pasa a tu marido?	No
+1969	¿Qué tienes contra mí?	Sí
+1969	A tu lado no es vivir	No
+1969	Aquella chica está aquí	No
+1969	Busco una millonaria	No
+1969	Contigo encontré la paz	Sí
+1969	Debéis casaros	No
+1969	Disculpa mi timidez	Sí
+1969	El incasable	No
+1969	Ella no tenía la culpa	Sí
+1969	Eres demasiado joven	No
+1969	Eres un embustero	No
+1969	Estaba destinada para mí	No
+1969	Estás casada conmigo	Sí
+1969	Has jugado con fuego	No
+1969	La novia viuda	No
+1969	Me siento culpable	No
+1969	Me tienes en tinieblas	No
+1969	Me vence tu sensibilidad	No
+1969	No iré a buscarte	No
+1969	No me basta tu ternura	No
+1969	No me burlo de ti	Sí
+1969	No me pidas que te ame	No
+1969	No nos entendemos	Sí
+1969	No puedo llenar tu soledad	No
+1969	No quise tu orgullo	Sí
+1969	No sabes querer	Sí
+1969	No sé por qué te casaste	Sí
+1969	No sufras por mi dolor	No
+1969	No te cambio por otra	No
+1969	No te has quedado sola	No
+1969	No te merezco	No
+1969	Nunca me comprendiste	No
+1969	Nunca te tomé en broma	No
+1969	Por casarse él con otra	No
+1969	Prefiero tu vida	No
+1969	Refúgiate en mí	No
+1969	Se busca profesor	No
+1969	Si no me comprendes	Sí
+1969	Si sabes que te quiero	No
+1969	Si te casas tú conmigo	Sí
+1969	Sólo supe quererte	No
+1969	Te domina la soledad	No
+1969	Te duele mi pecado	No
+1969	Tendré que casarme	No
+1969	Tiene la culpa mi hija	No
+1969	Tu sacrificio no es vano	No
+1970	¿Por qué te casaste conmigo?	Sí
+1970	Ahora ya te conozco	No
+1970	Al fin te encontré	Sí
+1970	Aprendí contigo	No
+1970	Aquel desconocido	Sí
+1970	Aunque sea sin amor	No
+1970	Defenderé esta causa	No
+1970	Déjame consolarte	Sí
+1970	Déjame verte todos los días	Sí
+1970	Dejaste de quererme	Sí
+1970	El silencio de tu cariño	No
+1970	Él y sus sobrinos	No
+1970	En ti confío	No
+1970	Estaba destinada para ti	No
+1970	Estoy casada con él	No
+1970	Lección de amor	No
+1970	Me has confundido	Sí
+1970	Me humilla tu orgullo	No
+1970	Me juzgaste a la ligera	No
+1970	Me obligaron a dejarte	No
+1970	No conocías a tu hermano	No
+1970	No engañes a las dos	Sí
+1970	No intento redimirte	No
+1970	No me mires así	No
+1970	No me pesa quererte	No
+1970	No quisiste retenerme	No
+1970	No renuncies por tu hijo	No
+1970	No sabía que estabas casado	No
+1970	No sé qué me pasa	Sí
+1970	No tienes derecho a juzgarme	No
+1970	Nos casamos por amor	No
+1970	Nunca me doblegarás	No
+1970	Odio tus aventuras	Sí
+1970	Pídeme que sea tu esposa	No
+1970	Quédate con nosotros	Sí
+1970	Recuerdos que vuelven	No
+1970	Sé mi esposa	No
+1970	Siempre te busqué	Sí
+1970	Sólo me quedas tú	No
+1970	Solos… sin querer	Sí
+1970	Soy tu invitada	No
+1970	Su destino en doce días	Sí
+1970	Tarde vuelves	No
+1970	Te atreviste por mí	Sí
+1970	Te busqué siempre	No
+1970	Te debes a tu nombre	No
+1970	Tengo la culpa yo	No
+1970	Tiene la culpa tu miedo	Sí
+1970	Tú no llegaste tarde	Sí
+1970	Yo me ocupo de ti	No
+1971	¿Qué hacemos tú y yo casados?	Sí
+1971	A bordo viaja el destino	No
+1971	Ahora sí lo entiendo	No
+1971	Aquel bello amanecer	No
+1971	Confundí tu cobardía	Sí
+1971	Confusa turbación	No
+1971	Debes conquistar a tu marido	Sí
+1971	Desconozco a mi marido	No
+1971	Dime que no llegué tarde	No
+1971	El destino soy yo	No
+1971	El ídolo	No
+1971	El papá de Baby	Sí
+1971	Eres demasiado duro	Sí
+1971	Eres mi mujer y me dejaste	Sí
+1971	Juegas con los sentimientos	Sí
+1971	La dignidad de tu amor	No
+1971	La mentira de mi verdad	No
+1971	Llama a tu marido	No
+1971	Me callo por tu bien	No
+1971	Me caso con mi marido	Sí
+1971	Me emociona tu delicadeza	Sí
+1971	Mi mujer eres tú	No
+1971	Mi senda eres tú	No
+1971	No esperaba encontrarte	No
+1971	No importa la edad	Sí
+1971	No me caso contigo	No
+1971	No quiero seguir a tu lado	Sí
+1971	No sé si creer en ti	Sí
+1971	No sé si estoy casada	Sí
+1971	No sé si se casará conmigo	Sí
+1971	No sirvo para la aventura	No
+1971	No soy de los que se casan	No
+1971	No soy tu mujer	Sí
+1971	No tengo derecho a nada	Sí
+1971	Nunca es tarde para mí	No
+1971	Nunca te tuve miedo	Sí
+1971	O vives como yo…	Sí
+1971	Odio tu silencio	No
+1971	Quédate conmigo	No
+1971	Siempre estuve a tu lado	No
+1971	Sólo intenté ayudarte	No
+1971	Soy la mujer de Chuck	No
+1971	Te engañas al juzgarme	Sí
+1971	Te vi pasar	No
+1971	Tengo algo que preguntarte	No
+1971	Tengo que retenerte	No
+1971	Tregua sentimental	No
+1971	Tres meses de prueba	Sí
+1971	Tú me llevaste a él	Sí
+1971	Un día me di cuenta	No
+1971	Yo creía en ti	Sí
+1971	Yo me caso contigo	Sí
+1971	Yo sí me caso	Sí
+1972	¡Cuidado con el paleto!	Sí
+1972	¡Mi querido tonto!	No
+1972	¿Siempre lo supiste?	No
+1972	Agencia matrimonial	No
+1972	Aprendí después	Sí
+1972	Aquella estatua	No
+1972	Defiende nuestro matrimonio	No
+1972	El destino entre la nieve	No
+1972	El destino llegó aquel día	No
+1972	El tutor de Mauren	No
+1972	Elegí el mejor	No
+1972	Fui a encontrarte allí	No
+1972	Íntima inquietud	No
+1972	Junto a ti es fácil olvidar	No
+1972	La chica de la estación	No
+1972	Lo aprendí en un día	No
+1972	María Dorel	No
+1972	Me da miedo tu amor	No
+1972	Me dejaron con él	Sí
+1972	Me dejas así	No
+1972	Me gustaría conocerte	No
+1972	Me voy a casar contigo	Sí
+1972	Mi marido lo sabía	No
+1972	Mi mujer es una ingenua	No
+1972	Mi querido tonto	No
+1972	Necesito casarme	No
+1972	No es posible que te cases con él	No
+1972	No esperes por él	No
+1972	No necesitas decirme nada	No
+1972	No por eso te quiero menos	Sí
+1972	No se lo digas a ella	No
+1972	No te has vendido	No
+1972	No te niego mi amor	No
+1972	Nos casamos el jueves	No
+1972	Nos vimos otra vez	Sí
+1972	Nunca me di cuenta	No
+1972	Nunca te buscaría	No
+1972	Quiero hablar con mi esposa	No
+1972	Seguimos queriéndonos	No
+1972	Si me quieres a mí	Sí
+1972	Silenciosamente encadenados	No
+1972	Sólo seré novia formal	No
+1972	Te miento por aquello	Sí
+1972	Tessa tiene razón	No
+1972	Tú entiendes la felicidad	No
+1972	Tu vida es una mentira	No
+1972	Volvamos a empezar	No
+1972	Vuelve conmigo	No
+1972	Vuelvo a casa	No
+1972	Ya puedes ser mi mujer	Sí
+1973	Antes eras mejor	Sí
+1973	Aquella linda muchacha	No
+1973	Aquí está mi esposa	No
+1973	Cásate con él, Zulaika	No
+1973	Digámonos adiós	Sí
+1973	El hijo de mi marido	No
+1973	El padre de Desi	Sí
+1973	Él te engaña	No
+1973	Falso novio	No
+1973	Intenta convencerme	No
+1973	La segunda esperanza	Sí
+1973	La tía de Kitty	Sí
+1973	Las chicas de la estación	No
+1973	Matrimonio en apuros	No
+1973	Me casé con mi empleado	No
+1973	Me gustaría estar contigo	Sí
+1973	Mi falso novio	No
+1973	Mi prima Ann	No
+1973	No comprendo a mi mujer	No
+1973	No he venido a buscarte	No
+1973	No importa lo que seas	No
+1973	No sabía que eras tú	Sí
+1973	No vuelve el recuerdo	No
+1973	Nuestro vecino	Sí
+1973	Prefiero mi independencia	No
+1973	Regresa, Eric	No
+1973	Respeta mi libertad	No
+1973	Son rosas para Nancy	No
+1973	Te admiré antes	No
+1973	Te he conocido antes	No
+1973	Te pido que me comprendas	Sí
+1973	Todo vuelve con él	No
+1973	Tú me enseñaste a vivir	No
+1973	Tu orgullo nos separa	Sí
+1973	Vengo a buscarle a él	Sí
+1973	Ya estoy casada	No
+1973	Yo le conozco mejor	Sí
+1974	Censuro tu presunción	No
+1974	No me pides que me quede	No
+1974	No nos preguntamos nada	No
+1974	Nos separa tu mentira	No
+1974	Nunca te confundí	No
+1974	Quédate a mi lado	No
+1974	Rosas para Nélida	No
+1975	¡Ojalá vuelva!	No
+1975	Antes me entendías mejor	No
+1975	Aventura a bordo	No
+1975	Busca una millonaria	No
+1975	Buscamos novia para Marcel	No
+1975	Busco a mi marido	No
+1975	Cásate conmigo y verás	Sí
+1975	Cuenta mi vida	No
+1975	Debiste decírselo	No
+1975	Déjame contártelo	Sí
+1975	Déjame descansar aquí	No
+1975	Díselo antes	Sí
+1975	El destino vive aquí	No
+1975	El odio vuelve contigo	No
+1975	El tío Thomas	No
+1975	Eres poco para ella	No
+1975	Ese impertinente…	No
+1975	Has vuelto a mí	No
+1975	He de arreglar mi vida	No
+1975	La hija de mi amigo	No
+1975	La humildad de Chiara	Sí
+1975	La raíz de todo eres tú	No
+1975	Lauren	No
+1975	Lo hice sin querer	No
+1975	Me elegiste por temor	No
+1975	Me he casado con mi marido	No
+1975	Mi marido no me merece	No
+1975	Mi ordinario marido	No
+1975	Necesitaba ser así	Sí
+1975	No eres como creen	No
+1975	No llego tarde	No
+1975	No me dejes volver a ti	No
+1975	No me importa lo que digan	Sí
+1975	No me vuelvas a llamar	No
+1975	No quiero saber nada de ella	No
+1975	No te buscaba	No
+1975	Quisiera conocerte hoy	No
+1975	Se casa mi mujer	No
+1975	Se casó con la otra	No
+1975	Sé mujer para tu marido	Sí
+1975	Solo contigo	Sí
+1975	Soy aquel otro	No
+1975	Soy la enfermera del doctor	No
+1975	Te confío a mi hermana	No
+1975	Te metes demasiado en mí	No
+1975	Tengo miedo a encadenarme	No
+1975	Tengo que confundirla	No
+1975	Tengo que respetarla	No
+1975	Vengo a casarme	No
+1975	Yo le quiero	No
+1975	Yo me quedo aquí	No
+1975	Yo no me casé contigo	No
+1976	¡No quiero a esa mujer!	No
+1976	Ahora tengo experiencia	No
+1976	Ayúdame en mi desconcierto	Sí
+1976	Condenas mi ambición	No
+1976	Cuando llegue mi momento	No
+1976	De nada te servirá escapar	No
+1976	Debes elegir ahora	No
+1976	Debo dejarte	Sí
+1976	Déjanos vivir	No
+1976	Detén el destino	No
+1976	El castigo es peor	No
+1976	Él me da miedo	No
+1976	El novio de mi hija	Sí
+1976	El padre de Nicole	Sí
+1976	Ella es mi futuro	No
+1976	Empecemos aquí	No
+1976	Ganamos los dos	No
+1976	Ha vuelto Rex	No
+1976	Hay algo que se muere	No
+1976	Hay que casar a papá	No
+1976	Ingratitud	Sí
+1976	Júzgame como quieras	Sí
+1976	La enfermera de mamá	Sí
+1976	Matrimonio a la deriva	No
+1976	Me dejaste tú	No
+1976	Me empujaste tú	No
+1976	Mi primo Fred	No
+1976	No
+1976	No debieras perturbarme	No
+1976	No la juzgues tú	No
+1976	No me interesa esto	Sí
+1976	No nos separa el orgullo	No
+1976	No quiero volver contigo	No
+1976	No sé si voy a buscarla	No
+1976	No te hago de menos	Sí
+1976	No te lo voy a perdonar	No
+1976	No te vendas, mujer	No
+1976	Nos han casado	No
+1976	Olvídate de aquello	Sí
+1976	Pensaré si me caso	No
+1976	Sé por qué te sigo	No
+1976	Soy aquella mujer	Sí
+1976	Sus inquietudes me apasionan	No
+1976	Tres meses después	No
+1976	Tu deseo me ofende	No
+1976	Una mujer diferente	No
+1976	Usted quiere casarse	No
+1976	Vivimos como queremos	No
+1976	Voy casada	Sí
+1976	Ya no lo hago por ti, papá	No
+1976	Yo entiendo mi vida	No
+1976	Yo estoy aquí	No
+1977	¡Hola, Moile!	No
+1977	¡Mi querido tonto… !	No
+1977	Angustia vital	No
+1977	Así no me basta	No
+1977	Ayúdame a salvar mi situación	No
+1977	Bajo el paraguas	No
+1977	Busco secretaria	No
+1977	Debate matrimonial	Sí
+1977	Debe aprender a vivir	No
+1977	Déjame ampararte	No
+1977	Despeja mis tinieblas	No
+1977	Dudo de tu presente	No
+1977	El destino llama a mi puerta	No
+1977	Elige entre los dos	No
+1977	Eres un inmaduro	No
+1977	Esta es la verdad	No
+1977	Estaba en tinieblas	No
+1977	Hay que ayudarles a ellos	No
+1977	Hay que casar a María	No
+1977	Hermoso engaño	No
+1977	Inquieta Tití	Sí
+1977	Intento construir mi vida	No
+1977	Los dos cuentan su vida	No
+1977	Me admira su paciencia	No
+1977	Me gustó aprender contigo	No
+1977	Me impulsas tú	No
+1977	No
+1977	No buscaba eso	No
+1977	No eres tan rudo	No
+1977	No es así, Susan	No
+1977	No hago más que imitarte	No
+1977	No lo puedo evitar	No
+1977	No lo puedo vencer	No
+1977	No me convences	Sí
+1977	No nos dimos cuenta	No
+1977	No olvidé lo ocurrido	Sí
+1977	No quiero casarme	No
+1977	No quiero que vuelva	Sí
+1977	No quiero quedarme sola con él	No
+1977	No sé nada de mí	No
+1977	No sé si es mi deber	No
+1977	No soy dueña de mí	No
+1977	No soy tan frívola	No
+1977	Nos queremos	No
+1977	Nuestro matrimonio	No
+1977	Pídeme que nos casemos	No
+1977	Piensa de mí lo que quieras	No
+1977	Quiero disculparte	No
+1977	Quisiera parecerme a ti	No
+1977	Respeta mi indecisión	No
+1977	Si me ayudas…	No
+1977	Siempre te esperé	No
+1977	Solo casándome	No
+1977	Somos felices así	No
+1977	Te ayudo yo	Sí
+1977	Te espero los domingos	Sí
+1977	Te estoy engañando	No
+1977	Te he sido infiel	Sí
+1977	Tendrás que recordarme	Sí
+1977	Tu duda nos destruye	No
+1977	Tú empiezas conmigo	No
+1977	Vacaciones con amor	No
+1978	Amor en penumbra	No
+1978	Ansiedad	No
+1978	Aprendí despacio	No
+1978	Así aprendí	No
+1978	Buscas demasiado	No
+1978	Contigo volvió el pasado	No
+1978	Cuéntame qué pasa	Sí
+1978	Divórciate de mí	Sí
+1978	El amigo de mi hija	No
+1978	Él es un erótico	No
+1978	Elige entre el rico y yo	No
+1978	Entre el pasado y el presente	No
+1978	Es inútil que insistas	No
+1978	Es rica y joven	Sí
+1978	Eso no es suficiente	Sí
+1978	Este encuentro	No
+1978	Estoy aquí	No
+1978	Estoy casado con ella	No
+1978	Hago lo que quiero	No
+1978	Me caso con tu mujer	No
+1978	Me duele tu ayuda	No
+1978	Me turba su timidez	No
+1978	Mi noche inolvidable	No
+1978	Mi sobrino, su padre y yo	No
+1978	No es posible continuar	No
+1978	No es tanto el rencor	No
+1978	No incites así	No
+1978	No le hagas caso a tu hija	No
+1978	No me dice nada	No
+1978	No me fijé en ti	No
+1978	No me pidas que sea tuya	No
+1978	No me tomes por tonta	No
+1978	No pretendí engañarte	No
+1978	No pretendo ocultarlo	No
+1978	No somos tan distintos	No
+1978	Quiero conocerte mejor	No
+1978	Si tienes elección	No
+1978	Situación confusa	No
+1978	Te ofrezco la solución	No
+1978	Te pago igual	No
+1978	Te vuelvo a desear	No
+1978	Tendré a mi hijo	No
+1978	Tengo derecho a más	No
+1978	Tiene que ser mía	No
+1978	Vamos a probar	No
+1978	Ven a cuidar a tu marido	No
+1978	Ven a verme los lunes	No
+1979	Acéptame como soy	No
+1979	Alivia mi esperanza	No
+1979	Apasionada Betty	No
+1979	Confidencias sentimentales	No
+1979	Confuso problema	No
+1979	Contigo está el pecado	No
+1979	Déjame ayudarte en tus dudas	No
+1979	Dijo que me quería	No
+1979	El doctor y ella	No
+1979	El pasota	Sí
+1979	El problema de María	No
+1979	Empecé sin querer	Sí
+1979	Es demasiado para mí	No
+1979	Es mejor que me sigas	Sí
+1979	Esta es una realidad	Sí
+1979	Evoco el pasado	No
+1979	Fue de repente	No
+1979	Hay algo más que deseo	Sí
+1979	Hay que dejarlo	No
+1979	La encontré en un alto	No
+1979	La han violado	No
+1979	Las dudas de Felipe	No
+1979	Llena mi soledad	No
+1979	Lo tengo decidido	No
+1979	Los celos de mi marido	No
+1979	Matrimonio por computadora	No
+1979	Me atrajo su realidad	Sí
+1979	Me caso así	No
+1979	Me empujó la vida	No
+1979	Me enamoré de tu hermana	No
+1979	Mi marido es otro	No
+1979	Mi pasado y tú	No
+1979	Mira para ti	Sí
+1979	No condenes mi aventura	No
+1979	No lo diré nunca	No
+1979	No sé si la quiero	Sí
+1979	No te comprometas	Sí
+1979	No tolero que me engañe	No
+1979	Olvídate del ayer	No
+1979	Quisiera convencerte	No
+1979	Regresó Max	No
+1979	Se casa tu mujer	Sí
+1979	Se lo cuento a mi amigo	Sí
+1979	Si me aceptas así	No
+1979	Si quieres casarte…	No
+1979	Si supiera qué hacer… te lo diría	No
+1979	Sombras de pesadilla	Sí
+1979	Su doble vida	No
+1979	Te está engañando	No
+1979	Te recibo a las ocho	No
+1979	Tengo que conquistarte	No
+1979	Tengo que elegir	No
+1979	Trata de blancas	Sí
+1979	Tu gran orgullo	No
+1979	Una mujer liberada	Sí
+1979	Vivamos juntos	No
+1979	Voy a vivir con él	No
+1979	Ya llegará tu hora	Sí
+1979	Yo soy él	Sí
+1979	Yo te curaré	No
+1980	¿Quién soy yo?	No
+1980	Acepta el swing	Sí
+1980	Aquel cálido verano	No
+1980	Así no me compras	Sí
+1980	Buscaré una solución	Sí
+1980	Crisis amorosa	No
+1980	Déjame contar esto	No
+1980	Egoísmo imperdonable	Sí
+1980	El amigo de mamá	No
+1980	El mundo de la virginidad	No
+1980	Él no sabía que hacer	No
+1980	El pecado de Doris	No
+1980	El profesor de mi hijo	Sí
+1980	Ella será mi mujer	Sí
+1980	En ti está mi futuro	Sí
+1980	En ti me refugio	Sí
+1980	Es nuestra vida	Sí
+1980	Esposa fiel	Sí
+1980	Esposa infiel	No
+1980	Estaba esperando	No
+1980	Estabas junto a mí	No
+1980	He dejado de quererte	No
+1980	Juvenil indecisión	No
+1980	La encontré en el periódico	Sí
+1980	Las verdades de Cristina	No
+1980	Le ocurrió a Bárbara	Sí
+1980	Lo dio todo	No
+1980	Me apasiona el sexo	No
+1980	Me enamoré en silencio	No
+1980	Me falta todo y soy famoso	No
+1980	Me ganaste tú	No
+1980	Me has destrozado	Sí
+1980	Me siento desplazado	No
+1980	Me siento humillada	Sí
+1980	Mi canción es para ti	No
+1980	Mi sobrina Susi	Sí
+1980	No aspires a mí	Sí
+1980	No conoce mi pecado	Sí
+1980	No es verdad	Sí
+1980	No está loca	Sí
+1980	No estás enamorada	Sí
+1980	No lo pudo superar	No
+1980	No necesito casarme	No
+1980	No pretendí quitártelo	No
+1980	No quise ser falsa	No
+1980	No soy ingrata	No
+1980	No tienes escrúpulos	Sí
+1980	No volví a ser lo que era	Sí
+1980	Nunca haré lo que pides	No
+1980	Pasión oculta	No
+1980	Pienso que es tarde	No
+1980	Problema de sexo	Sí
+1980	Problema generacional	No
+1980	Problema íntimo	No
+1980	Que no te marque el fracaso	Sí
+1980	Realismo	No
+1980	Se realizó después	No
+1980	Se siente sola	No
+1980	Sigo aquí	Sí
+1980	Sombras	Sí
+1980	Soy tu esposo	No
+1980	Te amo más por eso	No
+1980	Tengo que despreciarlo	Sí
+1980	Tengo que volver aquí	No
+1980	Tenía que ser distinto	No
+1980	Terrible frustración	No
+1980	Tienes que saber la verdad	Sí
+1980	Tu esposa es ella	No
+1980	Tu madre o yo	Sí
+1980	Tú y yo	No
+1980	Tuvo la culpa el destino	No
+1980	Tuvo la culpa mi esterilidad	Sí
+1980	Vine en tu busca	No
+1980	Vuelve aquí	Sí
+1980	Vuelve tu marido	Sí
+1980	Vuelvo a tu casa	Sí
+1981	Amándonos así	No
+1981	Amor audaz	Sí
+1981	Amor sin barreras	No
+1981	Angustia latente	No
+1981	Anhelos y pasiones	Sí
+1981	Aquella noche	No
+1981	Crisis sentimental	No
+1981	Déjame mirar en el entorno	No
+1981	Déjame quererte un poco	No
+1981	Deseo prohibido	Sí
+1981	Detesto mi amor contigo	No
+1981	Disculpo tus pecados	Sí
+1981	El destino sale a mi encuentro	No
+1981	El hombre de mi vida	No
+1981	Es que no lo deseas	No
+1981	Espero que se case mi mujer	No
+1981	Estamos tan solos…	Sí
+1981	Falsa seducción	No
+1981	Forzando el destino	No
+1981	Forzosa infidelidad	No
+1981	Inseguridad matrimonial	No
+1981	Júzgame después	No
+1981	La inquietud de mi hijo	Sí
+1981	Le debo cuanto soy	No
+1981	Los hombres sois así	No
+1981	Luces y sombras	Sí
+1981	Me enseñaste tú	No
+1981	Me gustaría quererte	No
+1981	Me liberó la vida	Sí
+1981	Me llamo María	No
+1981	Mi novia era una ingenua	Sí
+1981	Mi novia se ha casado	No
+1981	Mi querido médico	No
+1981	Mi realización como mujer	No
+1981	Necesito vivir	No
+1981	No condenes tu amor	No
+1981	No creo en tu fidelidad	Sí
+1981	No estoy segura de mí	No
+1981	No me caso con Susana	No
+1981	No me ocultes tus penas	Sí
+1981	No me ofendas pagándome	Sí
+1981	No sabía dónde iba	No
+1981	No te quiere	Sí
+1981	No te retengo	No
+1981	Nos quieren separar	No
+1981	Nos separan los celos	No
+1981	Nunca renunciaré	Sí
+1981	Obseso sexual	Sí
+1981	Olvida tu represión	No
+1981	Olvídate de mí	No
+1981	Pat está en peligro	Sí
+1981	Piensa que estoy a tu lado	Sí
+1981	Placeres fugaces	No
+1981	Posesión	No
+1981	Prefiero conocerme y conocerte	No
+1981	Primero te prefería a ti	No
+1981	Quería estar sola	No
+1981	Quiero casarme así	No
+1981	Respeta mi vida	Sí
+1981	Sabía que me dejarías	Sí
+1981	Seguimos casados	Sí
+1981	Sensibilízame tú	Sí
+1981	Si esperas por mí	Sí
+1981	Su vida desdoblada	No
+1981	Tengo que prostituirme	Sí
+1981	Tiene derecho a su parcela	No
+1981	Tu hijo es mío	Sí
+1981	Tu mundo virginal	No
+1981	Tú no me quieres	No
+1981	Tú no puedes darme la felicidad	Sí
+1981	Tus pecados me apasionan	Sí
+1981	Un hombre inquietante	Sí
+1981	Veleidades	No
+1981	Ven a mi lado	Sí
+1981	Ya no tengo razón de estar contigo	No
+1981	Yo viviré mi vida	No
+1982	Amor y odio	Sí
+1982	Así no le retengo	Sí
+1982	Atadura y pasión	Sí
+1982	Celos encadenados	No
+1982	Dayna	No
+1982	Deja paso al cariño	Sí
+1982	Déjate conseguir	No
+1982	Deliciosa mentira	Sí
+1982	El concepto de la vida	Sí
+1982	El destino y mis sobrinos	No
+1982	El dilema de Marcela	No
+1982	El orgullo la destruye	No
+1982	El viudo tímido	No
+1982	Enamora a mi mujer	Sí
+1982	Encuentro final	No
+1982	Hogueras y rescoldos	No
+1982	Ignoraba que fuese casado	Sí
+1982	Inolvidable pasión	No
+1982	Insólita solución	Sí
+1982	La han calumniado	Sí
+1982	La ley del sentimiento	Sí
+1982	La llamada del deseo	No
+1982	La obsesión de mi jefe	No
+1982	La otra cara de la verdad	Sí
+1982	La pasión de amar	No
+1982	La realidad se impone	No
+1982	La revelación de Sue	No
+1982	La vida para mí	No
+1982	Las generaciones se dispersan	No
+1982	Luchaba por ti	No
+1982	Mag es mi amor	No
+1982	Marcada para siempre	No
+1982	Me enamora tu inmadurez	No
+1982	Me gusta tu doncella	Sí
+1982	Me gustaría ser tú	No
+1982	Me perturba su pasión	No
+1982	Me pregunto si fue el destino	No
+1982	Mi destino de ayer	No
+1982	Mi encrucijada	Sí
+1982	Mi novia se ha quedado atrás	No
+1982	Mi pariente es un truhan	No
+1982	Mis relaciones con él	No
+1982	No
+1982	Necesito contarlo	No
+1982	Necesito servicio	No
+1982	No es tu hombre	No
+1982	No me importa lo que seas	No
+1982	No me pidas que me quede	No
+1982	No perdamos la esperanza	No
+1982	No perturbes a mi hermana	Sí
+1982	No podía serle infiel	No
+1982	No puedo hablar del pasado	No
+1982	No quiero ser desleal	Sí
+1982	No quisiera conocerte	No
+1982	No soy capaz de hacerlo	No
+1982	No te ha marcado la vida	No
+1982	No te olvides de ti mismo	No
+1982	No tengo polilla	Sí
+1982	No vendo mis sentimientos	No
+1982	Quiero amarte	No
+1982	Quiero conservarte	No
+1982	Rosa y Jorge	No
+1982	Sé que es casado	Sí
+1982	Siempre estuve enamorado de ella	No
+1982	Sigo mi camino	Sí
+1982	Sublime ayuda	Sí
+1982	Supremo deseo	Sí
+1982	Te contrato aquí	No
+1982	Te está mintiendo	Sí
+1982	Te lo perdono todo	No
+1982	Te perdono tus mentiras	No
+1982	Te veré los lunes	No
+1982	Tengo derecho a vivir	No
+1982	Tengo fe en ella	No
+1982	Tengo que dejarlo	No
+1982	Verano revelador	No
+1982	Vivo intensamente	No
+1982	Vivo mi vida	No
+1982	Yo no me vendo	No
+1983	Ambición y destino	Sí
+1983	Angustiosa esclavitud	No
+1983	Apacible tío Thomas	No
+1983	Calumniada	No
+1983	Cuando llegue tu momento	No
+1983	Déjame ser quien soy	No
+1983	Descubrimiento matrimonial	Sí
+1983	Disculpo, pero no perdono	Sí
+1983	Dolorosa realidad	No
+1983	Doloroso desconcierto	No
+1983	Dudas y deseos	No
+1983	El destino retorna	No
+1983	El encuentro con ella	No
+1983	El final de una huida	Sí
+1983	El momento es decisivo	No
+1983	El novio de Kerry	No
+1983	El silencio de los dos	Sí
+1983	El viaje de mi destino	Sí
+1983	Es mejor amante que marido	No
+1983	Esa pequeña bola del mundo	Sí
+1983	Ese no es mi hijo	No
+1983	Estoy obligado a mi mujer	No
+1983	Intento consolarte	Sí
+1983	Intimidades	No
+1983	La educaron para esposa	No
+1983	La rutina de mi vida	No
+1983	Llegó el momento	No
+1983	Los prejuicios de Lucía	No
+1983	Los problemas de Edurne	Sí
+1983	Mamá no se casa	Sí
+1983	Me divorcié de él	No
+1983	Me gusta tu hogar	No
+1983	Mi primo Juan	No
+1983	Mi querido ligón	Sí
+1983	Mis pecados perdonables	No
+1983	No
+1983	Necesito libertad	No
+1983	No debo engañarme a mí mismo	No
+1983	No me robes su cariño	Sí
+1983	No podéis casaros	No
+1983	No quería casarme	Sí
+1983	No quiero ser falso	Sí
+1983	No sé adaptarme	No
+1983	No sé ayudarte	No
+1983	No sé qué espera	Sí
+1983	No te enamores de mí	No
+1983	No vendas tu pureza	No
+1983	Noches comprometidas	No
+1983	Nostalgias	No
+1983	Nunca quise vivir así	No
+1983	Nunca quise vivir esto	No
+1983	Nunca te fui infiel	No
+1983	Olvida tu vocación	No
+1983	Pacto recíproco	No
+1983	Prefiero tu silencio	No
+1983	Quiero triunfar	Sí
+1983	Sácame de mis tinieblas	Sí
+1983	Sólo intento ayudarte	No
+1983	Son dos alternativas	No
+1983	Su fama engañosa	Sí
+1983	Te han casado sin querer	No
+1983	Te odio por distinta	Sí
+1983	Temo la segunda parte	No
+1983	Tía Benny	Sí
+1983	Tita busca un camino	No
+1983	Todo fue bien hasta entonces	No
+1983	Todo por él	Sí
+1983	Todo queda atrás	No
+1983	Tus mentiras me maduran	Sí
+1983	Tus rosas rojas	No
+1983	Una aventura insospechada	No
+1983	Usted quiere casarse conmigo	No
+1983	Vengo a cobrar mi deuda	No
+1983	Volveré	Sí
+1983	Yo también soy libre	No
+1984	Amor oculto	No
+1984	Andy y sus hijos	Sí
+1984	Aquel día nací yo	No
+1984	Aquel encuentro en la carretera	No
+1984	Aquella segunda vez	No
+1984	Aquellos matrimonios	No
+1984	Así lo supe	No
+1984	Astucia de enamorada	No
+1984	Ayer era diferente	No
+1984	Boda inesperada	No
+1984	Boda singular	No
+1984	Brenda busca empleo	No
+1984	Busco marido	No
+1984	Busquemos las razones	No
+1984	Cadena afectiva	No
+1984	Cansancio justificado	No
+1984	Cartas a papá	No
+1984	Cásate con mi hermana	Sí
+1984	Con él llegó mi pecado	No
+1984	Confusión y orgullo	No
+1984	Convenio sentimental	No
+1984	Cuando vuelvas	No
+1984	Cuatro meses de mi vida	No
+1984	Decepción y esperanza	No
+1984	Demasiadas mentiras	No
+1984	Denise	No
+1984	Disipa tus dudas	No
+1984	Doble destino	No
+1984	Doloroso engaño	No
+1984	Dos mujeres en su vida	No
+1984	Drama íntimo	No
+1984	El amor y la ley	Sí
+1984	El ayer no vuelve	No
+1984	El caso de Sandra	No
+1984	El desengaño de Raisa	No
+1984	El despecho de Betina	No
+1984	El destino no detiene	Sí
+1984	El destino tiene espinos	No
+1984	El día que te vi	No
+1984	El diario de la abuela	No
+1984	El dilema de Mattia	No
+1984	El drama de Jim	No
+1984	El embustero	No
+1984	El encuentro	No
+1984	El engaño de mi marido	Sí
+1984	El enigma de Tania	No
+1984	El hijo de mi prima	No
+1984	El hijo de Natalia	No
+1984	El hombre de oro	No
+1984	El lazo invisible	No
+1984	El ligue de papá	No
+1984	El marido de mi tía	No
+1984	El marido de Pitusa	No
+1984	El matrimonio de papá	No
+1984	El médico de guardia	No
+1984	El médico de mi mujer	No
+1984	El papá de Beli	No
+1984	El primer amor	No
+1984	El problema de mi hermano	No
+1984	El regreso de Guy	Sí
+1984	El secreto de María	Sí
+1984	El testamento de la abuela	Sí
+1984	El triunfo de la constancia	No
+1984	Ella entre dos hombres	No
+1984	Empecemos desde aquí	No
+1984	Encuentro deseado	No
+1984	Encuentro inesperado	No
+1984	Entre dudas	No
+1984	Eres una embustera	Sí
+1984	Errores juveniles	No
+1984	Esas grises sombras	No
+1984	Esta es tu pupila	No
+1984	Esta será mi esposa	No
+1984	Estamos solos	No
+1984	Experiencia negativa	No
+1984	Fin de semana	No
+1984	Forzoso engaño	No
+1984	Fuiste mi salvación	No
+1984	Goyo busca niñera	No
+1984	Ha llegado una frívola	No
+1984	Hay que casarlo	No
+1984	Independencia amorosa	No
+1984	Influencia del pasado	No
+1984	Ingrato recuerdo	No
+1984	Intento sobrevivir	Sí
+1984	Inútil sacrificio	No
+1984	Jana es madre	No
+1984	La amante de mi amigo	Sí
+1984	La boda de Patty	No
+1984	La conciencia de Lucía	No
+1984	La debilidad de Chusa	No
+1984	La equivocación de Bryan	No
+1984	La falsedad de Marcel	No
+1984	La fría prudencia	No
+1984	La herencia de Moni	No
+1984	La incógnita de una vida	No
+1984	La madre de Mateo	No
+1984	La marca del pasado	No
+1984	La mujer de Bruce	No
+1984	La mujer de papá	No
+1984	La mujer de su padre	No
+1984	La noche de los dos	Sí
+1984	La novia de Greg	No
+1984	La novia de Javi	No
+1984	La pareja a secas	No
+1984	La pureza de Matilde	Sí
+1984	La rebeldía de Nuria	No
+1984	La segunda existencia	No
+1984	La señorita de Nike	No
+1984	La señorita de Omar	No
+1984	La temeridad de Ginés	No
+1984	La tía Saskya	No
+1984	La travesía	Sí
+1984	La vida de Chani	No
+1984	La viuda de Bertino	No
+1984	Las aventuras de Eric	No
+1984	Las cartas de María	No
+1984	Las dos amigas	No
+1984	Las gemelas	No
+1984	Las lágrimas de Tita	No
+1984	Las locuras de Nat	No
+1984	Las nubes de Merry	No
+1984	Las semanas de Alexia	No
+1984	Las veleidades de Tristán	No
+1984	Lío familiar	No
+1984	Lo cuento como ocurrió	No
+1984	Loca relación	No
+1984	Lora busca empleo	No
+1984	Los hermanos	No
+1984	Maggy y sus argucias	No
+1984	Mapy y su realidad	No
+1984	María llega de América	No
+1984	Mayka y su pasado	No
+1984	Me caso contigo	No
+1984	Me dejaste silenciosa	No
+1984	Me intriga tu inquietud	No
+1984	Me lo dijo Fran	No
+1984	Mentira amorosa	No
+1984	Mercado humano	No
+1984	Mi amigo Dany	No
+1984	Mi amigo el capitán	No
+1984	Mi amigo Fausto	No
+1984	Mi caso original	No
+1984	Mi cuñado y yo	No
+1984	Mi marido es un extraño	No
+1984	Mi Nita querida	Sí
+1984	Mi pequeña loca	No
+1984	Mi querido Rodríguez	No
+1984	Miedo al pasado	No
+1984	Mis calamidades	No
+1984	Mis experiencias	No
+1984	Mis vivencias con él	Sí
+1984	Miss Nataly	No
+1984	No
+1984	Necesito aprovechar la vida	No
+1984	Necesito dejarte	Sí
+1984	Necesito profesora	No
+1984	No compro mujer	No
+1984	No consumas tu ansiedad	No
+1984	No fue casualidad	No
+1984	No hay edad para amar	No
+1984	No me agrada el ambiente	Sí
+1984	No me caso por poderes	Sí
+1984	No me dejes, Carolina	No
+1984	No me gusta divagar	No
+1984	No me gusta ser oportunista	Sí
+1984	No quiero abortar	Sí
+1984	No quiero enamorarme	No
+1984	No quiero este negocio	Sí
+1984	No quiero vivir sola	No
+1984	No se lo digas a él	No
+1984	No sé por donde salir	No
+1984	No sé si volveré a verte	No
+1984	No sirve tu caridad	No
+1984	No soporto esta situación	No
+1984	No vivo con tu aventura	No
+1984	Nos hemos divorciado	No
+1984	Nos separa el odio	No
+1984	Nunca fui padre	No
+1984	Nunca olvidé ese pasado	Sí
+1984	Obligada abstinencia	No
+1984	Ocho años después	No
+1984	Orientación femenina	No
+1984	Origen de un recuerdo	No
+1984	Padre de ocasión	No
+1984	Papá quiere casarme	No
+1984	Pasiones y dudas	No
+1984	Pergaminos de pasión	No
+1984	Piadosa ocultación	No
+1984	Prefiero que seas celosa	No
+1984	Prejuicios raciales	No
+1984	Presentía el destino	No
+1984	Problema humano	No
+1984	Quieren casarme	No
+1984	Quiero a tu mujer	No
+1984	Quiero huir de esto	No
+1984	Quiero ser madre	No
+1984	Quiero un hijo	Sí
+1984	Rebeldía justificada	No
+1984	Recuerdos de aquella noche	No
+1984	Reflexión silenciosa	No
+1984	Relaciones emotivas	No
+1984	Rivalidad	No
+1984	Se casa el marido de mamá	No
+1984	Semblanzas íntimas	No
+1984	Si volviera el ayer	No
+1984	Sofía tuvo un dilema	No
+1984	Sombra de duda	No
+1984	Soy tu mujer	No
+1984	Su alteza decide	No
+1984	Su traición y mi fracaso	No
+1984	Sublime situación	No
+1984	Te acepto como eres	Sí
+1984	Te confío mi realidad	Sí
+1984	Te llaman aventurera	No
+1984	Temores, dudas y amor	No
+1984	Tengo mi verdad	No
+1984	Tengo planes para ti	No
+1984	Tengo que ir junto a él	No
+1984	Timidez sentimental	No
+1984	Tío Marcel	No
+1984	Trampa de amor	No
+1984	Tregua amorosa	No
+1984	Tu diferencia	No
+1984	Un abuelo en apuros	No
+1984	Un caballero y dos mujeres	Sí
+1984	Un hogar para Beatriz	No
+1984	Un hombre tímido	No
+1984	Un marido confuso	No
+1984	Un novio original	No
+1984	Un retazo de mi vida	No
+1984	Una chica en apuros	No
+1984	Una chica especial	No
+1984	Una chica peligrosa	No
+1984	Una fácil elección	No
+1984	Vacaciones amistosas	No
+1984	Vaivenes humanos	No
+1984	Vidas cruzadas	No
+1984	Volvamos al ayer	No
+1984	Volvamos atrás	No
+1984	Yo decido mi vida	No
+1984	Yo no soy tu juguete	No
+1985	Aquel precioso verano	No
+1985	Buenos días, amor	Sí
+1985	Confusión emotiva	No
+1985	Después de su palabra	No
+1985	El amor no es dinero	No
+1985	El celoso	No
+1985	El fracaso compensado	Sí
+1985	El pasado me condena	No
+1985	Entre amores y dudas	No
+1985	Entre el dolor y el amor	No
+1985	Me casan con él	Sí
+1985	Necesito hacerlo así	No
+1985	No te lo quiero decir	No
+1985	No vuelvo a ser tu mujer	Sí
+1985	Noches solitarias	No
+1985	Retazos íntimos	No
+1985	Sensaciones extrañas	No
+1985	Somos iguales	No
+1985	Te dejo sin amor	Sí
+1985	Tu misterio me intimida	Sí
+1985	Vacilaciones de Talia	No
+1985	Vacío sentimental	No
+1985	Vengo a buscarte	No
+1985	Vente conmigo, Mappy	No
+1986	Alarma	No
+1986	Buscando una meta	No
+1986	Cuando llega Pizca	No
+1986	Doble personalidad	No
+1986	El circo del corazón	No
+1986	El fantasma del ayer	No
+1986	El misterio del caserón	No
+1986	El padre soy yo	No
+1986	El pensionado	No
+1986	Esposa por un mes	No
+1986	Extraño enlace	No
+1986	La herencia de Lole	No
+1986	La historia de Bolita	No
+1986	La intrusa	No
+1986	La rebeldía de Boris	No
+1986	La segunda oportunidad	No
+1986	Llega Nika	No
+1986	Los sentimientos de Koldo	No
+1986	Odioso rencor	No
+1986	Perdidos en el mar	No
+1986	Perico y Nanay	No
+1986	Tu duda me destruye	No
+1987	El diario de María	No
+1987	El laberinto del miedo	No
+1987	El misterio de Molly	No
+1987	El retazo de mi vida	No
+1987	En aquella playa	No
+1987	La debilidad Chusa	No
+1987	La hija de mi mujer	No
+1987	Las gemelas de Barbany	No
+1987	Momentos de silencio	No
+1987	No puedo ser fiel	No
+1987	Papá quiere casarse	No
+1987	Qué futuro nos espera	No
+1987	Rey sin testigos	No
+1987	Silencio matrimonial	No
+1987	Valeri tiene un amante	No
+1988	Ama y olvida	No
+1988	Confidencias	No
+1988	Corazón de chocolate	No
+1988	Diario de una cantante	Sí
+1988	El año decisivo	Sí
+1988	El cazafortunas	No
+1988	El hijo de Patricia	No
+1988	El matrimonio de Vic	No
+1988	El secreto de Pipo	No
+1988	El testamento	Sí
+1988	Ésta es tu pupila	No
+1988	Ésta será mi esposa	No
+1988	Felicidad aplazada	No
+1988	Íntimo secreto	No
+1988	La alegría de la pandilla	No
+1988	La humillación de Yago	No
+1988	Las cicatrices de Kony	No
+1988	Las vivencias de Betty	No
+1988	Los amigos de Kima	Sí
+1988	Marido de ocasión	No
+1988	Me he casado con él	No
+1988	Orgullo de una raza	No
+1988	Roger y su tío	No
+1988	Su Alteza decide	No
+1988	Volviendo al pasado	No
+1989	Aquellos tres meses	No
+1989	Comprendí aquel día	No
+1989	Curioso convenio	No
+1989	Desconcertante revelación	No
+1989	Divorcio	No
+1989	Dudosa relación	No
+1989	El destino de un amor	No
+1989	El peor castigo	No
+1989	Favor peligroso	No
+1989	La gran sorpresa	No
+1989	Ocultación sentimental	No
+1989	Un amor y cinco hombres	No
+1989	Verano en el mar	No
+1990	Decide el destino	No
+1990	Difícil convivencia	No
+1990	Jugadas del destino	No
+1990	La frontera del olvido	No
+1990	La influencia del pasado	No
+1991	Aquella pesadilla	No
+1991	Aquellos días de Riana	No
+1991	Cartas a mi amiga	No
+1991	Cásate con mi hija	No
+1991	Deliciosa equivocación	No
+1991	Desgaste es la razón	No
+1991	Destino casual	No
+1991	Destino incierto	No
+1991	Destino inesperado	No
+1991	Drama interno	No
+1991	El triunfo de Diana	No
+1991	Entre nebulosas	No
+1991	Esposa de alquiler	No
+1991	Esposa para Óscar	No
+1991	Mi encuentro con el amor	No
+1991	Mis recuerdos	No
+1991	No hagas eso	No
+1991	No supe defenderme	No
+1991	Originales memorias	No
+1991	Situación insólita	No
+1991	Un hombre en apuros	No
+1991	Un marido de ocasión	No
+1992	Amante de mi marido	No
+1992	Ana busca marido	No
+1992	Aquel mes especial	No
+1992	Aquel tópico femenino	No
+1992	Bendita situación	No
+1992	Boda oportuna	No
+1992	Cásate conmigo otra vez	No
+1992	Convenio amistoso	No
+1992	Debilidad humana	No
+1992	Déjame volver	No
+1992	Divorcio convenido	No
+1992	El dilema de la tía	No
+1992	El enigma de Omar	No
+1992	El secreto de Nuria	No
+1992	Ese mundo de tinieblas	No
+1992	Espero verte después	Sí
+1992	Esta segunda vez	No
+1992	La amante de Fran	No
+1992	La culpa de Andrea	No
+1992	La llamada oportuna	No
+1992	La pesadilla de Olivia	No
+1992	La soledad de Óscar	No
+1992	La sombra de otro querer	No
+1992	La vi aquella vez	No
+1992	Las dudas de Eric	No
+1992	Las piruetas de José	No
+1992	Llego ahora	No
+1992	Lo culpó a él	No
+1992	Matrimonio de transición	No
+1992	Me casé con un mentiroso	No
+1992	Mi boda con Patricia	No
+1992	Mi cuento	No
+1992	Mi endiablado orgullo	No
+1992	Milagro en el camino	Sí
+1992	No me encuentro	No
+1992	Ojalá te odiara	No
+1992	Piénsalo dos veces	No
+1992	Prefiero callarlo	No
+1992	Presión inesperada	No
+1992	Relaciones comprometidas	No
+1992	Se casa conmigo	No
+1992	Sombras del pasado	No
+1992	Sorpresas	No
+1992	Te estoy conociendo	No
+1992	Tengo que recuperarlo	No
+1992	Tentación calculada	No
+1992	Tentando a Gus	No
+1992	Tío Fabio	No
+1992	Un marido de embriaguez	No
+1992	Una chica suficiente	No
+1992	Una duda confusa	No
+1992	Una mujer en apuros	No
+1992	Vacilaciones	No
+1993	Acoso sexual	No
+1993	Aquel extraño caso	No
+1993	Desayuno con amor	No
+1993	El desengaño de Mel	No
+1993	El primo Iván	No
+1993	El regreso	No
+1993	Es que te quiero	No
+1993	La esposa de Pepino	No
+1993	La vida y sus sorpresas	No
+1993	Los celos de Fran	No
+1993	Mamá piensa casarse	No
+1993	Me gano la felicidad	No
+1993	Mi amiga Tati	No
+1993	Mi amigo Mauro	No
+1993	Mi cuento de hadas	No
+1993	No esperaba eso de él	No
+1993	No sé lo que hará	No
+1993	Nosotros no tenemos la culpa	No
+1993	Ocurrió así	No
+1993	Piensa en ti misma	No
+1993	Seamos sólo amigos	No
+1993	Situación difícil	No
+1993	Sometida	No
+1993	Soy casado	No
+1993	Un orgullo exagerado	No
+1993	Una historia confusa	No
+1994	Defenderé tu causa	No
+1996	Tu pasado me condena	No
+2000	Yo estaba allí	No
+2003	Amargos sentimientos	No
+2003	Llama	No
+2006	Doce en solitario	No
+2006	El destino de las sombras	Sí
+
