@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/latestdoi/20671293)](https://doi.org/10.5281/zenodo.20671293)
-
+[![DOI](https://zenodo.org/badge/20671293.svg)](https://zenodo.org/badge/latestdoi/20671293)
 
 # FOLLETIN
 Material adicional de *Estilometría y cultura de masas: análisis de la obra de Corín Tellado desde las Humanidades Digitales*
