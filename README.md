@@ -31,7 +31,7 @@ El espacio de trabajo de este análisis se organiza de la siguiente manera:
 │
 ├── 📜 macroanalisis.R                     <-- Script 1: Lectura masiva, metadatos y extracción básica
 └── 📜 microanalisis.R                     <-- Script 2: Segmentación sintáctica y generación de gráficas
-
+```
 ## ✍️ Cómo citar / Citation
 
 Si utiliza estos scripts, el diseño metodológico o el modelo de segmentación en su propia investigación, le agradecemos que cite tanto el artículo de fondo como el software alojado en este repositorio:
