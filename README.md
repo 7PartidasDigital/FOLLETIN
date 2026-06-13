@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/20671293.svg)](https://zenodo.org/badge/latestdoi/20671293)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20671293.svg)](https://doi.org/10.5281/zenodo.20671293)
 
 # FOLLETIN
 Material adicional de *Estilometría y cultura de masas: análisis de la obra de Corín Tellado desde las Humanidades Digitales*
@@ -42,6 +42,6 @@ Si utiliza estos scripts, el diseño metodológico o el modelo de segmentación 
 > **Fradejas Rueda, José Manuel. (2026).** «Estilometría y cultura de masas: análisis de la obra de Corín Tellado desde las Humanidades Digitales». *Anuari De Filologia. Estudis De Lingüística*, *16, pp. xx-xx. https://doi.org/[Insertar_DOI_del_artículo]
 
 ### 2. Referencia del software y entorno computacional (Zenodo/GitHub)
-> **Fradejas Rueda, [JM]. (2026). **Material adicional de *Estilometría y cultura de masas: análisis de la obra de Corín Tellado desde las Humanidades Digitales* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/[Insertar_DOI_de_Zenodo]
+> **Fradejas Rueda, [JM]. (2026). **Material adicional de *Estilometría y cultura de masas: análisis de la obra de Corín Tellado desde las Humanidades Digitales* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20671293
 
 ---
